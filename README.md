@@ -8,3 +8,9 @@ Hello line number 5
 Public int myMethodTest1(){
 
 }
+
+@Test
+Public String myMethodTest2(){
+
+
+}
